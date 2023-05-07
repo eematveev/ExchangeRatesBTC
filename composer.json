@@ -1,0 +1,16 @@
+{
+    "name": "eematveev/exchange-rates-btc",
+    "description": "Returns currency exchange rates in relation to BTC using the blockchain.info API",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Evgeny E. Matveev",
+            "email": "eematveev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php":">=5.2"
+    }
+}
